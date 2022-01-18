@@ -1,9 +1,9 @@
-# ERC-notes
 
 ## source: 
  - https://medium.com/wepower/erc-standards-to-move-ethereum-forward-erc-20-erc-223-erc-721-e1712456449d
  - https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc-721-nft
-
+ 
+# ERC-notes
 - ERC = Ethereum Request for Comment
 - ERCs are application-level standards in the ETH ecosystem ==> smart contracts standard for tokens 
 - ERC is pretty much the form of memoradum describing methods, behaviors, research, or innovations applicable to the working of the Ethereum ecosystem.
