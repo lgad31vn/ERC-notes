@@ -1,0 +1,31 @@
+# ERC-notes
+
+## source: https://medium.com/wepower/erc-standards-to-move-ethereum-forward-erc-20-erc-223-erc-721-e1712456449d
+
+- ERC = Ethereum Request for Comment
+- ERC is pretty much the form of memoradum describing methods, behaviors, research, or innovations applicable to the working of the Ethereum ecosystem.
+- ETC is a set of the rules that Smart Contracts implement and leverage
+
+
+# ERC20
+- The most common and well-known ERC within crypto community
+- ~ 99% issued ICO tokens on ETH network implements this standard
+- A simple set of functions that a token should have
+- https://github.com/lgad31vn/ERC-notes/blob/main/ERC-20.sol
+
+
+# ERC223
+### Advandtages:
+- Created to solve ERC20 standard
+- Avoid accidentally lost tokens inside contracts that are not designed to work with sent tokens
+- ERC223 transactions consume less gas than ERC20
+
+### Disadvandtages:
+- ERC223 is a proposal, not a standard ==> none high-profile ICO tokens on top of this proposal
+- Might need some modifications to support token deployed with ERC223
+
+
+# ERC721
+- This proposal's goal is to creat NFT
+- ERC721 makes it easy to create marketplaces for NFTs
+
