@@ -35,5 +35,10 @@
   + ownerOf: returns the address of the owner of a token.
   + approve: grants or approves another entity the permission to transfer tokens on the owner’s behalf
   + takeOwnership: optional function that acts like a withdraw function since an outside party can call it to take tokens out of another user’s account
-  + 
+
+
+# ERC1125
+- Unique token that supports NFTs AND fungible tokens. 
+- ERC1155 allows one contract create various types of NFTs.
+- Gas fees are cut by 90%
 
